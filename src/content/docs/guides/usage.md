@@ -9,13 +9,15 @@ description: A guide in my new Starlight docs site.
 
 2. **Select Campaign**
 
-   - Choose a campaign from the menu (by number).  
-     ![git placeholder](/tool_menu_1.png)
+   - Choose a campaign from the menu (by number).
+
+![git placeholder](/tool_menu_1.png)
 
 3. **Choose Target**
 
-   - Select the site or tool you want to diagnose.  
-     ![git placeholder](/tool_menu_2.png)
+   - Select the site or tool you want to diagnose.
+
+![git placeholder](/tool_menu_2.png)
 
 4. **Run Diagnostics**
 
